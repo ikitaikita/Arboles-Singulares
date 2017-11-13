@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+      
+    <string-array name="travel_arrays">
+        <item>A pie (azul)</item>
+        <item>Bicicleta (verde)</item>
+        <item>Coche (gris)</item>
+    </string-array>
+    <string-array name="provincia_arrays">
+        <item>Todos</item>
+        <item>Avila</item>
+        <item>Burgos</item>
+        <item>Leon</item>
+        <item>Palencia</item>
+        <item>Salamanca</item>
+        <item>Segovia</item>
+        <item>Soria</item>
+        <item>Valladolid</item>
+        <item>Zamora</item>
+    
+       
+    </string-array>
+    <string-array name="filtro_arrays">
+        <item>Todos</item>
+       	<item>Abedul</item>
+		<item>Abeto</item>
+		<item>Acebo</item>
+		<item>Alcornoque</item>
+		<item>Aliso</item>
+		<item>Arce</item>
+		<item>Castaño</item>
+		<item>Cedro</item>
+		<item>Chopo</item>
+		<item>Cipres</item>
+		<item>Encina</item>
+		<item>Enebro</item>
+		<item>Espino</item>
+		<item>Fresno</item>
+		<item>Haya</item>
+		<item>Madroño</item>
+		<item>Moral</item>
+		<item>Nogal</item>
+		<item>Olmo</item>
+		<item>Pino</item>
+		<item>Pinsapo</item>
+		<item>Roble</item>
+		<item>Sauce</item>
+		<item>Sequoia</item>
+		<item>Tejo</item>
+
+    </string-array>
+    
+</resources>

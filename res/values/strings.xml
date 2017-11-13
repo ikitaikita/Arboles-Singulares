@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Arboles Singulares CyL</string>
+    <string name="action_settings">Settings</string>
+    <string name="author">Victoria Marcos</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_inicio">Inicio</string>
+    <string name="cargar">Arboles Cercanos</string>
+    <string name="todos">Todos los Arboles Singulares</string>
+    <string name="nombreComun">Nombre Comun</string>
+       
+    <string name="atras">Pantalla Anterior</string>
+    <string name="salir">Salir Aplicación</string>    
+    <string name="filtro">Todos los Arboles</string>
+    <string name="filtrar">Filtrar</string>
+    <string name="share">Compartir</string>
+    <string name="filtroCercanos">Arboles Singulares Cercanos</string>
+    <string name="mapTodos">Mapa de Arboles</string>
+    
+    <string name="fichaArbol">Ficha del Arbol</string>
+    <string name="verPunto">Ver en el mapa</string>
+  
+    <string name="title_all_restaurantes">Arboles</string>
+  
+    <string name="INFORMACION">Info</string>
+    <string name="cargandoArboles">Cargando Arboles Singulares</string>
+ 
+    
+    
+    <string name="ErrorCarga">Error en la carga</string>
+    <string name= "desc"></string>
+    <string name="travel_prompt">Selecciona un modo de ir</string>
+   
+    <string name="comun_prompt">Selecciona un tipo de arbol</string>
+    <string name="provincia_prompt">Selecciona una provincia</string>
+    <string name="filtro_prompt">Selecciona un filtro</string>
+    <string name="about">Acerca de</string>
+    <string name="exit">Salir</string>
+    <string name="caracteristicas">Caracteristicas</string>
+    
+      <string name="about_app_developed_by">aplicacion desarrollada por</string>
+    <string name="about_app_developed_by_author">Victoria Marcos</string>
+  	<string name="about_app_description">Arboles Singulares de Castilla y León</string>
+   
+    <string name="about_contract">Datos obtenidos de http://arbolessingularescyl.blogspot.com.es/ y del Catalogo www.jcyl.es/web/jcyl/binarios/794/729/Catálogo.pdf</string>
+    
+    
+    
+    <!--  YOUTUBE STANDALONE -->
+    
+   
+
+</resources>
